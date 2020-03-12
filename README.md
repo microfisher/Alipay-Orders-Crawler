@@ -1,5 +1,5 @@
 # 支付宝订单爬虫
-自动登录支付宝、模拟鼠标运动轨迹、坐标锁定输入、绕过Smartracker认证、自动识别验证码、多爬虫并发抓取、注销后自动重登录、多帐号并行抓取、SignalR 状态推送。
+支付宝订单爬虫，使用.NET框架下的WPF技术实现，自动登录支付宝、模拟鼠标运动轨迹、坐标锁定输入、绕过Smartracker认证、自动识别验证码、多爬虫并发抓取、注销后自动重登录、多帐号并行抓取、SignalR 状态推送。
 
 ## 主界面
 ![主界面](https://raw.githubusercontent.com/microfisher/Alipay-Orders-Crawler/master/%E4%B8%BB%E7%95%8C%E9%9D%A2.PNG)

@@ -4,7 +4,7 @@
 ## 主界面
 ![主界面](https://raw.githubusercontent.com/microfisher/Alipay-Orders-Crawler/master/%E4%B8%BB%E7%95%8C%E9%9D%A2.PNG)
 
-## 自动/手动登陆界面
+## 自动/手动登陆、验证码识别界面
 ![自动登陆](https://raw.githubusercontent.com/microfisher/Alipay-Orders-Crawler/master/%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95.png)
 
 ## 采集界面
